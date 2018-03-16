@@ -1,10 +1,10 @@
-Source: maratona-submission
+Source: maratona-submission-dev
 Section: misc
 Priority: optional
 Maintainer: Bruno Ribas <brunoribas@utfpr.edu.br>
 Build-Depends: debhelper
 
-Package: maratona-submission
+Package: maratona-submission-dev
 Architecture: all
-Depends: maratona-firewall, boca-submission-tools
+Depends: maratona-firewall-dev, boca-submission-tools
 Description: Pacote com o ambiente de submissão para o Boca central
